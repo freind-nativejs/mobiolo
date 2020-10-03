@@ -1,6 +1,6 @@
 # Môbiolo
 # descrição.
-Este site está sendo desenvolvido por dois programadores (estudantes na federação Russa) que tem como objectivo ajudar na venda de produtos, desde móveis á         imóveis, mas com garantia de segurança da parte da policia nacional, e o mesmo site vai fazer o uso de uma API pública cria pelos mesmo desenvolderes, que vai       servir de fonte para verificação de dados de todos os prestadores de serviços do mesmo site, de modo que não haja burlas. 
+ Este site está sendo desenvolvido por dois programadores (estudantes na federação Russa) que tem como objectivo ajudar na venda de produtos, desde móveis á         imóveis, mas com garantia de segurança da parte da policia nacional, e o mesmo site vai fazer o uso de uma API pública cria pelos mesmo desenvolderes, que vai       servir de fonte para verificação de dados de todos os prestadores de serviços do mesmo site, de modo que não haja burlas. 
 
   # Logo temporária
   
